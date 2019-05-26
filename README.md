@@ -1,7 +1,13 @@
+## React Youtube Clone
+This is a simple youtube clone that allows the user to search videos and display them as so they can be played via the browser. 
+
+## How to Install?
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is built with the help of [Youtube API](https://developers.google.com/youtube/v3/docs/)
+### `npm install`
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `npm start`
